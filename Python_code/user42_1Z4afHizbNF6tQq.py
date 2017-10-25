@@ -6,7 +6,7 @@ import random
 #images
 image1 = simplegui.load_image("http://www.picturesflowers.net/free_flowers_pictures/stock_photo_of_an_orange_flower_0001-0211-0617-3706_SMU.jpg")
 image2 = simplegui.load_image("http://www.flower-angels.com/images/flowers/flower_cornflower.jpg")
-image3 = simplegui.load_image("http://cdn.oxfordpoetryelection.com/2016/08/13/orange-flower-3.jpg")
+image3 = simplegui.load_image("https://i.pinimg.com/736x/2c/e4/38/2ce4388ef4fa2b831b971086dafc8424--orange-flower-names-orange-flowers.jpg")
 image4 = simplegui.load_image("http://thumbs.dreamstime.com/x/pink-lotus-flower-10683674.jpg")
 image5 = simplegui.load_image("http://www.golden-gate-park.com/wp-content/uploads/2011/03/conservatory_of_flowers3.jpg")
 image6 = simplegui.load_image("http://img11.hostingpics.net/pics/43857617.hibiscus_rouge.jpg")
